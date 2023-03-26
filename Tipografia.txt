@@ -1,0 +1,14 @@
+a letra X é o ponto de partida para construção de fonte (minusculo)
+a altura da fonte vamos colocar no CSS
+
+configurando a fonte
+
+Peso = mais magrinha ou gordinha
+
+ /*Shorthand font
+                   
+             font: italic bolder 3em 'Work Sans', sans-serif;
+
+
+             font-style-> font-weigth-> font-size-> font-family*/
+

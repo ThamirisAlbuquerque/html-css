@@ -1,0 +1,16 @@
+#C5EBD6 #83E1AD #3DDC84 #2FA866 #063D1E
+
+ul{
+list-style-type:'\2714\0020\0020'
+columns:2;
+list-style-position:inside;
+}
+
+
+position: relative;
+background-color:;
+height:0px;
+margin-left: -20px;
+margin-right:-20px;
+margin-bottom:15px;
+padding-bottom:59%;

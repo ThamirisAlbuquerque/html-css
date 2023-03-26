@@ -1,0 +1,48 @@
+height: altura
+
+width: largura
+
+linha em volta da caixa->
+
+
+margin: ao redor da borda
+
+outline: entre a borda e a margem
+
+border: borda 
+
+padding: espaço entre a caixa e a borda
+
+caixa
+
+DOIS TIPOS DE CAIXA
+
+
+BOX-LEVEL
+
+<div>
+<h1> <h6>
+<p>
+<main>
+<header>
+<nav>
+<article>
+<aside>
+<footer>
+<form>
+<video>
+
+
+INLINE-LEVEL
+
+<span>
+<a>
+<code>
+<small>
+<strong>
+<em>
+<sup> <sub>
+<label>
+<button>
+<input>
+<select>

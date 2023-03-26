@@ -1,0 +1,17 @@
+body -envolve tudo
+
+header - parte de cima
+
+nav - menu
+
+(main - envolve o conteúdo
+
+(article - o conteúdo que vai dentro do main
+
+aside- conteúdo extra dentro do article))
+
+footer - fora do main
+
+
+abbr - aparecer o significado da palavra quando colocar a seta em cima
+
