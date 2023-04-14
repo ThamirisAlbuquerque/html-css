@@ -46,7 +46,7 @@ menu> ul >li >a{
 }
 
 menu> ul >li > a:hover{
-    background-color: lightcoral ;
+    background-color: rgb(210, 100, 100) ;
 }
 
 main{
